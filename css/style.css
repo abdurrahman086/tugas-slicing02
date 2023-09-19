@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+/* navbar */
+.header {
+    background-image: url('../public/images/foto01.png');
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+.fs-1{
+    color: #FFF;
+font-family: Sigmar One;
+font-size: 100rem;
+font-style: normal;
+font-weight: 400;
+line-height: 110%; /* 8.8rem */
+}
+
+.content2{
+    background-image: url('../public/images/content3.png');
+    background-position: center;
+    background-size: cover;
+    height: 850px;
+}
+.d-content{
+    display: flex;
+    padding: 0.625rem 0.9375rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+}
